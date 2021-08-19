@@ -1,5 +1,6 @@
 # Read "setting.json".
-$json = ConvertFrom-Json -InputObject (Get-Content .\setting.json -Raw)
+$currentDirectory = (Split-Path -Parent $MyInvocation.MyCommand.Path)
+$json = ConvertFrom-Json -InputObject (Get-Content $currentDirectory\setting.json -Raw)
 $appName = $Args[0]
 $applicationPath = $json.path.$appName
 

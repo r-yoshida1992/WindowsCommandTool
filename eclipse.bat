@@ -1,2 +1,2 @@
 @echo off
-call powershell .\_executionApp.ps1 eclipse
+call powershell %~dp0\_executionApp.ps1 eclipse
