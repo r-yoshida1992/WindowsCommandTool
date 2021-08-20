@@ -3,6 +3,10 @@
         "eclipse": "C:\\eclipse\\jee-2021-06\\eclipse\\eclipse.exe",
         "sakura": "C:\\sakura-tag-v2.4.1\\sakura.exe",
         "excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
-        "xampp-control": "C:\\xampp\\xampp-control.exe"
+        "xampp-control": "C:\\xampp\\xampp-control.exe",
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "code": "C:\\Users\\renyo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "a5m2": "C:\\Users\\renyo\\Downloads\\a5m2_2.16.0_x64\\A5M2.exe",
+        "sourcetree": "C:\\Users\\renyo\\AppData\\Local\\SourceTree\\SourceTree.exe"
     }
 }
